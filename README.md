@@ -10,7 +10,7 @@ Everything I do is to become a well-formed software engineer. In particular, I a
 * You can contact me at [gonzalogarciadev@gmail.com](mailto:gonzalogarciadev@gmail.com)
 
 ## Technologies
-<p align="center">
  | ![Html](https://img.icons8.com/color/30/000000/html-5--v1.png) | ![Css](https://img.icons8.com/color/30/000000/css3.png) | ![Javascript](https://img.icons8.com/color/30/000000/javascript--v1.png) | ![React](https://img.icons8.com/color/30/000000/react-native.png) | ![Python](https://img.icons8.com/color/30/000000/python--v1.png) | ![Django](https://img.icons8.com/ios-filled/30/000000/django.png) |  ![Git](https://img.icons8.com/color/30/000000/git.png) | ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) | ![Mysql](https://img.icons8.com/color/30/000000/mysql-logo.png) |
  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-</p>
+
+
