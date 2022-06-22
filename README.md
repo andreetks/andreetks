@@ -10,7 +10,9 @@ Everything I do is to become a well-formed software engineer. In particular, I a
 * You can contact me at [gonzalogarciadev@gmail.com](mailto:gonzalogarciadev@gmail.com)
 
 ## Technologies
- | ![Html](https://img.icons8.com/color/30/000000/html-5--v1.png) | ![Css](https://img.icons8.com/color/30/000000/css3.png) | ![Javascript](https://img.icons8.com/color/30/000000/javascript--v1.png) | ![React](https://img.icons8.com/color/30/000000/react-native.png) | ![Python](https://img.icons8.com/color/30/000000/python--v1.png) | ![Django](https://img.icons8.com/ios/30/000000/django.png) |  ![Git](https://img.icons8.com/color/30/000000/git.png) | ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) | ![Mysql](https://img.icons8.com/color/30/000000/mysql-logo.png) |
+ | ![Html](https://img.icons8.com/color/30/000000/html-5--v1.png) | ![Css](https://img.icons8.com/color/30/000000/css3.png) | ![Javascript](https://img.icons8.com/color/30/000000/javascript--v1.png) | ![React](https://img.icons8.com/color/30/000000/react-native.png) | ![Python](https://img.icons8.com/color/30/000000/python--v1.png) | ![Django]( https://img.icons8.com/external-tal-revivo-filled-tal-revivo/30/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png) |  ![Git](https://img.icons8.com/color/30/000000/git.png) | ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) | ![Mysql](https://img.icons8.com/color/30/000000/mysql-logo.png) |
  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreetks)](https://github.com/anuraghazra/github-readme-stats)
 
 
