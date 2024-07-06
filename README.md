@@ -1,6 +1,5 @@
 
-# Hi 👋 My name is Gonzalo
-But, I'd like to be called Andree
+# Hi 👋 My name is Andree
 ## About me
 I'm a Software Engineer student, and I'm currently studying at San Marcos University based in Peru. Besides my studies, I enjoy learning by myself, so I took courses on [Udemy](https://www.udemy.com/), [JetBrains Academy](https://hyperskill.org/), [FreeCodeCamp](https://www.freecodecamp.org/), [MongoDB University](https://university.mongodb.com/), and so on. 
 Everything I do is to become a well-formed software engineer. In particular, I am interested in Full-stack development.
